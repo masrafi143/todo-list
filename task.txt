@@ -1,0 +1,2 @@
+1. Create account in Git
+2. Complete Git assignment
