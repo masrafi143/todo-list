@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 2. Complete Git assignment (updated in feature-a)
+=======
+2. Complete Git assignment (updated in feature-b)
+>>>>>>> feature-b
